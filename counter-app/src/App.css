@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.buttons{
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.button:hover{
+  background-color: #4e6abe;
+}
+
+h2{
+  color: maroon;
+}
